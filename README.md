@@ -141,6 +141,8 @@ on front-end and use the React Intl (https://formatjs.io/docs/react-intl/) libra
 Then you can access at http://localhost:8082
 ##### Test environment
 - Run `docker-compose -f docker-compose.test.yml up`
+#### Running on linux
+- Run `docker-compose -f docker-compose-linux.yml up`
 
 ### First timers
 Here you can start to learn how to create your first pull request and start to be a contributor:
